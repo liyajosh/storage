@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "783585300665",
+    "firebase_url": "https://example-a4899.firebaseio.com",
+    "project_id": "example-a4899",
+    "storage_bucket": "example-a4899.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783585300665:android:c7ed62968aa394eb",
+        "android_client_info": {
+          "package_name": "com.example.liya.fireb2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783585300665-8i71f2lu825k624f8f4nj8pvlkahb2o8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.liya.fireb2",
+            "certificate_hash": "033a8e798afd75f5a0e70388e4be73db2bdc1fa8"
+          }
+        },
+        {
+          "client_id": "783585300665-5jlfob72m3fegqs6gnafihirf6cb0vqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArzb5ruufV45h66IrbYqHjEKsiqueS8WQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783585300665-5jlfob72m3fegqs6gnafihirf6cb0vqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783585300665:android:a806387762327d53",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.firebasestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783585300665-uakfl2tjjsnb08lsqr7nc3jvokec05g0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.quickstart.firebasestorage",
+            "certificate_hash": "033a8e798afd75f5a0e70388e4be73db2bdc1fa8"
+          }
+        },
+        {
+          "client_id": "783585300665-5jlfob72m3fegqs6gnafihirf6cb0vqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArzb5ruufV45h66IrbYqHjEKsiqueS8WQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783585300665-5jlfob72m3fegqs6gnafihirf6cb0vqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
